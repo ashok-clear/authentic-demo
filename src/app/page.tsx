@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Herobanner from "@/app/components/sections/Herobanner"
 import CardWithbutton from "@/app/components/sections/CardWithButton"
 import ColWithLogo from '@/app/components/sections/ColWithLogo'
