@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <footer className='bg-[#151831] max-w-[1920px] mx-auto w-full relative'>
             <div className="container">
-                <div className='pt-[30px] pb-[40px] lg:pt-[80px] pr-0 lg:pb-[47px] pl-0 flex items-start flex-wrap'>
+                <div className='pt-8 pb-10 lg:pt-[80px] pr-0 lg:pb-12 pl-0 flex items-start flex-wrap'>
                     <div className='basis-full lg:basis-2/12 flex justify-between md:justify-center flex-row md:flex-col w-1/2 float-left relative'>
                         <div className='mt-[30px]'>
                             <div className="w-[160px] h-[19px]">
@@ -50,7 +50,7 @@ const Footer = () => {
 
                     </div>
                     <div className="basis-full  lg:basis-10/12 flex flex-wrap justify-bteween">
-                        <div className="mr-[20px] mt-[30px]  lg:pl-[39px]">
+                        <div className="mr-5 mt-[30px]  lg:pl-[39px]">
                             <ul>
                                 <li>
                                     <span className='text-[#5ac8fa] block text-[14px] font-bold mb-[10px] max-w-[200px] mt-0 tracking-[0.84px] text-left pt-[5px] pr-0 uppercase'>PRODUCTS</span>
@@ -72,7 +72,7 @@ const Footer = () => {
                                 </li>
                             </ul>
                         </div>
-                        <div className="mr-[20px] mt-[30px]  lg:pl-[39px]">
+                        <div className="mr-5 mt-[30px]  lg:pl-[39px]">
                             <ul>
                                 <li>
                                     <span className='text-[#5ac8fa] block text-[14px] font-bold mb-[10px] max-w-[200px] mt-0 tracking-[0.84px] text-left pt-[5px] pr-0 uppercase'>USE CASES</span>
@@ -88,7 +88,7 @@ const Footer = () => {
                                 </li>
                             </ul>
                         </div>
-                        <div className="mr-[20px] mt-[30px]  lg:pl-[39px]">
+                        <div className="mr-5 mt-[30px]  lg:pl-[39px]">
                             <ul>
                                 <li>
                                     <span className='text-[#5ac8fa] block text-[14px] font-bold mb-[10px] max-w-[200px] mt-0 tracking-[0.84px] text-left pt-[5px] pr-0 uppercase'>COMPANY</span>
@@ -116,7 +116,7 @@ const Footer = () => {
                                 </li>
                             </ul>
                         </div>
-                        <div className="mr-[20px] mt-[30px]  lg:pl-[39px]">
+                        <div className="mr-5 mt-[30px]  lg:pl-[39px]">
 
                             <ul>
                                 <li>
@@ -139,7 +139,7 @@ const Footer = () => {
                                 </li>
                             </ul>
                         </div>
-                        <div className="mr-[20px] mt-[30px]  lg:pl-[39px]">
+                        <div className="mr-5 mt-[30px]  lg:pl-[39px]">
                             <ul>
                                 <li>
                                     <span className='text-[#5ac8fa] block text-[14px] font-bold mb-[10px] max-w-[200px] mt-0 tracking-[0.84px] text-left pt-[5px] pr-0 uppercase'>GET STARTED</span>
@@ -158,7 +158,7 @@ const Footer = () => {
                                 </li>
                             </ul>
                         </div>
-                        <div className="mr-[20px] mt-[30px]  lg:pl-[39px]">
+                        <div className="mr-5 mt-[30px]  lg:pl-[39px]">
                             <ul>
                                 <li>
                                     <span className='text-[#5ac8fa] block text-[14px] font-bold mb-[10px] max-w-[200px] mt-0 tracking-[0.84px] text-left pt-[5px] pr-0 uppercase'>Support</span>

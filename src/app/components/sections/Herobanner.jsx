@@ -13,6 +13,7 @@ const Herobanner = () => {
                     <h1 className='font-[500] text-[32px] sm:text-[42px] md:text-[46px] lg:text-[52px] xl:text-[62px] leading-[1.2] tracking-normal mb-[12px] lg:mb-[15px] text-white'>Digital investigations without the risk</h1>
                     <h4 className='font-[500] leading-[1.13] tracking-normal text-white max-w-[640px] text-[20px] md:text-[24px] lg:text-[28px]'>Stay isolated from malware and anonymous to prying eyes on the surface, deep and dark web with Authentic8's Silo for Research.</h4>
                     <div className='mt-[15px] lg:mt-[32px]'>
+                        
                         <a className='px-[30px] py-[10px]  lg:px-[40px] lg:py-[16px] mt-0 text-center inline-block relative outline-none text-[14px] lg:text-[16px] font-bold cursor-pointer transition-all duration-300 ease-in-out bg-[#68be62] border-2 border-transparent rounded-[5px] overflow-hidden align-middle text-white no-underline ' href="">
                             <span className='inline-block text-[14px] lg:text-[16px] leading-[1.25] relative left-0 font-sans text-white uppercase transition-all duration-300 ease-in-out'>Free trial</span>
                         </a>
