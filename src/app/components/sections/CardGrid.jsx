@@ -2,11 +2,11 @@ import React from 'react'
 import Image from 'next/image'
 const CardGrid = () => {
   return (
-    <section className='w-full relative py-[100px] overflow-hidden max-w-[1920px] bg-white mx-auto min-h-[632px] flex flex-col justify-center'>
+    <section className='w-full relative py-[45px] lg:py-[100px] overflow-hidden max-w-[1920px] bg-white mx-auto min-h-[632px] flex flex-col justify-center'>
       <div className="container">
-        <h2 className='text-[#151831] text-[50px] font-semibold leading-tight mb-5'>Learn more about our approach and solutions</h2>
-        <div className="flex relative ml-[-15px] outline-none w-calc-full-plus-30">
-          <div className="basis-4/12 relative overflow-visible inline-block align-top max-w-[410px] w-full min-h-[358px] bg-white rounded-[5px] border-2 border-[#bdc4cc] border-t-0 m-[15px] transition-all duration-500 ease-in-out float-none clear-both p-[32px] pt-[32px] pr-[21px] pb-[40px] pl-[25px] outline-none  before:bg-gradient-to-r before:from-[#252d6a] before:via-[#595ad3] before:to-[#742abf] before:absolute before:top-0 before:left-[-2px] before:w-[101%] before:h-[7px] before:bg-[#5856d6] before:rounded-tl-[5px] before:rounded-tr-[5px]">
+        <h2 className='text-[#151831] text-[24px] lg:text-[50px] font-semibold leading-tight mb-5'>Learn more about our approach and solutions</h2>
+        <div className="flex relative lg:ml-[-15px] outline-none w-calc-full-plus-30 flex-wrap lg:flex-nowrap">
+          <div className="basis-full  lg:basis-4/12 relative overflow-visible inline-block align-top   lg:max-w-[410px] w-full min-h-[358px] bg-white rounded-[5px] border-2 border-[#bdc4cc] border-t-0 mt-6 mr-1 ml-1 mb-0 lg:m-[15px] transition-all duration-500 ease-in-out float-none clear-both p-[32px] pt-[32px] pr-[21px] pb-[40px] pl-[25px] outline-none  before:bg-gradient-to-r before:from-[#252d6a] before:via-[#595ad3] before:to-[#742abf] before:absolute before:top-0 before:left-[-2px] before:w-[101%] before:h-[7px] before:bg-[#5856d6] before:rounded-tl-[5px] before:rounded-tr-[5px]">
             <div className="flex items-center mb-[16px]">
               <div className="w-[47px] h-[52px] overflow-hidden mr-[22px] flex items-center justify-center">
                 <Image
@@ -30,7 +30,7 @@ const CardGrid = () => {
               <a href="/blog/collecting-osint-discord-guide" className="text-[16px] text-[#68be62] relative font-bold leading-[1.25] tracking-[-0.01em] text-left uppercase pr-[30px] no-underline outline-0 cursor-pointer inline-block">Read more</a>
             </div>
           </div>
-          <div className="basis-4/12 relative overflow-visible inline-block align-top max-w-[410px] w-full min-h-[358px] bg-white rounded-[5px] border-2 border-[#bdc4cc] border-t-0 m-[15px] transition-all duration-500 ease-in-out float-none clear-both p-[32px] !pt-[6px] !pr-[25px] !pb-[25px] !pl-[25px] outline-none before:bg-gradient-to-l before:from-[#5cfa02] before:via-[#00a4ff] before:to-[#a704fb] before:absolute before:top-0 before:left-[-2px] before:w-[101%] before:h-[7px] before:bg-[#5856d6] before:rounded-tl-[5px] before:rounded-tr-[5px]">
+          <div className="basis-full  lg:basis-4/12 relative overflow-visible inline-block align-top     lg:max-w-[410px] w-full min-h-[358px] bg-white rounded-[5px] border-2 border-[#bdc4cc] border-t-0 mt-6 mr-1 ml-1 mb-0 lg:m-[15px] transition-all duration-500 ease-in-out float-none clear-both p-[32px] !pt-[6px] !pr-[25px] !pb-[25px] !pl-[25px] outline-none before:bg-gradient-to-l before:from-[#5cfa02] before:via-[#00a4ff] before:to-[#a704fb] before:absolute before:top-0 before:left-[-2px] before:w-[101%] before:h-[7px] before:bg-[#5856d6] before:rounded-tl-[5px] before:rounded-tr-[5px]">
             <div className="relative ml-[-25px] mr-[-25px] h-[218px] ">
               <Image
                 src="/images/s2e60_card_0.webp"
@@ -63,7 +63,7 @@ const CardGrid = () => {
               <a href="/needlestack/social-media-intelligence-gathering" className="text-[16px] text-[#68be62] relative font-bold leading-[1.25] tracking-[-0.01em] text-left uppercase pr-[30px] no-underline outline-0 cursor-pointer inline-block">Listen</a>
             </div>
           </div>
-          <div className="basis-4/12 relative overflow-visible inline-block align-top max-w-[410px] w-full min-h-[358px] bg-white rounded-[5px] border-2 border-[#bdc4cc] border-t-0 m-[15px] transition-all duration-500 ease-in-out float-none clear-both p-[32px] pt-[32px] pr-[21px] pb-[40px] pl-[25px] outline-none before:bg-gradient-to-r before:from-[#252d6a] before:via-[#595ad3] before:to-[#742abf] before:absolute before:top-0 before:left-[-2px] before:w-[101%] before:h-[7px] before:bg-[#5856d6] before:rounded-tl-[5px] before:rounded-tr-[5px]">
+          <div className="basis-full  lg:basis-4/12 relative overflow-visible inline-block align-top     lg:max-w-[410px] w-full min-h-[358px] bg-white rounded-[5px] border-2 border-[#bdc4cc] border-t-0 mt-6 mr-1 ml-1 mb-0 lg:m-[15px] transition-all duration-500 ease-in-out float-none clear-both p-[32px] pt-[32px] pr-[21px] pb-[40px] pl-[25px] outline-none before:bg-gradient-to-r before:from-[#252d6a] before:via-[#595ad3] before:to-[#742abf] before:absolute before:top-0 before:left-[-2px] before:w-[101%] before:h-[7px] before:bg-[#5856d6] before:rounded-tl-[5px] before:rounded-tr-[5px]">
             <div className="flex items-center mb-[16px]">
               <div className="w-[47px] h-[52px] overflow-hidden mr-[22px] flex items-center justify-center">
                 <Image
