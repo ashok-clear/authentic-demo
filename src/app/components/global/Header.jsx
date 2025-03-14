@@ -20,19 +20,19 @@ const Header = () => {
                     <nav className='flex justify-between items-center lg:flex-[0_0_calc(100%-158px)] max-w-[calc(100%-158px)]'>
                         <ul className='flex space-x-[30px] pl-[57px] hidden  lg:flex'>
                             <li className='py-[32px] position-[inherit] list-none'>
-                                <a className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/" >Products</a>
+                                <Link className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/" >Products</Link>
                             </li>
                             <li className='py-[32px] position-[inherit] list-none'>
-                                <a className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/" >Use Cases</a>
+                                <Link className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/" >Use Cases</Link>
                             </li>
                             <li className='py-[32px] position-[inherit] list-none'>
-                                <a className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/" >Partners</a>
+                                <Link className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/" >Partners</Link>
                             </li>
                             <li className='py-[32px] position-[inherit] list-none'>
-                                <a className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/" >Resources</a>
+                                <Link className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/" >Resources</Link>
                             </li>
                             <li className='py-[32px] position-[inherit] list-none'>
-                                <a className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/">Company</a>
+                                <Link className='text-[#151831] text-[15px] lg:text-[13px] xl:text-[15px] font-bold transition-colors duration-300 ease-in-out uppercase relative no-underline outline-none cursor-pointer inline-block font-sans' href="/">Company</Link>
                             </li>
                         </ul>
 

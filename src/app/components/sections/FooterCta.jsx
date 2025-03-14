@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 const FooterCta = () => {
     return (
-        <section className='w-full  overflow-visible relative overflow-hidden max-w-[1920px] bg-white mx-auto min-h-[231px] lg:min-h-[632px] flex flex-col justify-center py-[45px] lg:py-[150px]'>
+        <section className='w-full  overflow-hidden relative  max-w-[1920px] bg-white mx-auto min-h-[231px] lg:min-h-[632px] flex flex-col justify-center py-[45px] lg:py-[150px]'>
             <div className='absolute w-full h-full top-0 left-0'>
                 <Image
                     src="/images/footer-cta-image.png"

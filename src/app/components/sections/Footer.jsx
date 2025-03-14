@@ -151,7 +151,7 @@ const Footer = () => {
                                     <a href="/sfr-free-trial" className='text-[14px] font-normal tracking-normal text-left inline-block max-w-[200px] mt-[10px] text-white cursor-pointer pr-[15px] normal-case' >Free trial </a>
                                 </li>
                                 <li>
-                                    <a href="/sfr-product-video-tour" className='' >Demo on demand</a>
+                                    <a href="/sfr-product-video-tour" className='text-[14px] font-normal tracking-normal text-left inline-block max-w-[200px] mt-[10px] text-white cursor-pointer pr-[15px] normal-case' >Demo on demand</a>
                                 </li>
                                 <li>
                                     <a href="/products/silo-for-research/pricing" className='text-[14px] font-normal tracking-normal text-left inline-block max-w-[200px] mt-[10px] text-white cursor-pointer pr-[15px] normal-case' >Pricing</a>
@@ -167,7 +167,7 @@ const Footer = () => {
                                     <a href="/support" className='text-[14px] font-normal tracking-normal text-left inline-block max-w-[200px] mt-[10px] text-white cursor-pointer pr-[15px] normal-case'>Support</a>
                                 </li>
                                 <li>
-                                    <a href="https://status.authentic8.com/" target="_blank" rel="noopener noreferrer">System status</a>
+                                    <a href="https://status.authentic8.com/" className='text-[14px] font-normal tracking-normal text-left inline-block max-w-[200px] mt-[10px] text-white cursor-pointer pr-[15px] normal-case'>System status</a>
                                 </li>
                             </ul>
                         </div>
